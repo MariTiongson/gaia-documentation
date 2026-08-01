@@ -77,10 +77,11 @@ timeline:
   details: first-run baseline
 evidence:
 - source: https://github.com/gsd-build/get-shit-done/stargazers
+  updatedAt: '2026-08-01'
   evaluator: unknown
   date: '2026-07-03'
   type: github-stars-own
-  stars: 64635
+  stars: 64783
   skillCountInRepo: 5
 - source: https://github.com/gsd-build/get-shit-done
   evaluator: unknown
