@@ -88,11 +88,11 @@ timeline:
   details: first-run baseline
 evidence:
 - source: https://github.com/addyosmani/agent-skills/stargazers
-  updatedAt: '2026-08-01'
+  updatedAt: '2026-09-01'
   evaluator: unknown
   date: '2026-07-03'
   type: github-stars-own
-  stars: 81193
+  stars: 91335
   skillCountInRepo: 7
 - source: https://github.com/addyosmani/agent-skills
   evaluator: unknown
