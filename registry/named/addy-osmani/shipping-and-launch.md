@@ -61,11 +61,11 @@ timeline:
   details: Calibrated level from 2★ to 3★
 evidence:
 - source: https://github.com/addyosmani/agent-skills/blob/main/skills/shipping-and-launch/SKILL.md
-  updatedAt: '2026-10-01'
+  updatedAt: '2026-11-01'
   evaluator: unknown
   date: '2026-07-03'
   type: github-stars-own
-  stars: 100250
+  stars: 112407
   skillCountInRepo: 7
 - source: https://github.com/addyosmani/agent-skills
   evaluator: unknown
